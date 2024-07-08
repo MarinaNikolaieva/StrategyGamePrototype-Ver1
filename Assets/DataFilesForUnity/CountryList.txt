@@ -1,0 +1,9 @@
+Name	Color Code
+CountryA	#ec1616
+CountryB	#ed15b2
+CountryC	#ba15ed
+CountryD	#3515ed
+CountryE	#15edec
+CountryF	#15ed26
+CountryG	#e4ed15
+CountryH	#ed9f15

@@ -1,0 +1,10 @@
+Moisture \ Temperature	VeryHot	Hot	VeryWarm	Warm	Neutral	Cold	VeryCold
+Wettest	Rainforest	Jungle	Jungle	Jungle, Savanna	Mixed_Forest, Conifer	Taiga, Conifer	Tundra, Cold_Desert
+VeryWet	Rainforest, Jungle	Jungle, Savanna	Jungle, Savanna	Jungle, Savanna, Woodland, Forest_Steppe	Mixed_Forest, Conifer	Taiga, Conifer	Tundra, Cold_Desert
+Wet	Jungle	Jungle, Savanna, Woodland	Jungle, Savanna, Woodland	Savanna, Woodland, Forest_Steppe	Mixed_Forest, Conifer, Jungle	Taiga	Tundra, Cold_Desert
+NeutralWet	Savanna, Jungle, Woodland	Savanna, Woodland	Savanna, Woodland, Steppe	Savanna, Woodland, Forest_Steppe	Mixed_Forest, Broad_Leaf_Forest, Conifer	Taiga	Tundra, Cold_Desert
+Neutral	Savanna, Woodland	Savanna, Woodland, Steppe	Savanna, Woodland, Steppe	Savanna, Woodland, Steppe, Forest_Steppe	Forest_Steppe, Mixed_Forest, Broad_Leaf_Forest	Taiga, Forest_Tundra	Tundra, Cold_Desert
+NeutralDry	Savanna, Woodland, Semi_Desert	Savanna, Woodland, Steppe	Savanna, Woodland, Steppe	Savanna, Woodland, Steppe, Forest_Steppe	Steppe, Forest_Steppe, Mixed_Forest	Forest_Tundra	Cold_Desert
+Dry	Savanna, Semi_Desert, Desert	Woodland, Steppe, Semi_Desert	Woodland, Steppe, Semi_Desert	Savanna, Woodland, Steppe, Semi_Desert	Steppe, Forest_Steppe, Semi_Desert	Forest_Tundra, Tundra	Cold_Desert
+VeryDry	Semi_Desert, Desert	Steppe, Semi_Desert, Desert	Steppe, Semi_Desert, Desert	Steppe, Semi_Desert, Desert	Steppe, Semi_Desert	Tundra, Cold_Desert	Cold_Desert
+Driest	Desert	Semi_Desert, Desert	Semi_Desert, Desert	Semi_Desert, Desert	Semi_Desert, Desert	Tundra, Cold_Desert	Cold_Desert

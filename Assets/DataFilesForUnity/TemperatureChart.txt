@@ -1,0 +1,9 @@
+Lower Limit	Name	Color Code
+0.8	VeryHot	#8b0000
+0.65	Hot	#ff0000
+0.5	VeryWarm	#ffa500
+0.35	Warm	#ffff00
+0.2	Neutral	#008000
+0.05	Cold	#add8e6
+-1	VeryCold	#0000ff
+MinInf	None	#808080

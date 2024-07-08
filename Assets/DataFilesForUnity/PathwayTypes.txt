@@ -1,0 +1,5 @@
+Name	Price
+Dirt_Road	2
+Macadam	4
+Carriageway	6
+Highway	9
