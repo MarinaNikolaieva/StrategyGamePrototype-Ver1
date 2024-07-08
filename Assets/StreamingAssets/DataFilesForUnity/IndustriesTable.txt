@@ -1,0 +1,30 @@
+Level	Name																				
+1	Oil_Industry	Oil	2																		
+1	Gas_Industry	Gas	2																		
+1	Coal_Industry	Black_Coal	2	Brown_Coal	2																
+1	Uranium_Industry	Uranium	2																		
+1	Black_Metallurgy	Iron	1	Chromium	1	Manganese	1														
+1	Color_Metallurgy	Titan	2	Nickel	2	Wolfram	3	Aluminium	2	Copper	2	Silver	2	Tin	2	Mercury	3	Lead	3	Gold	3
+1	Chemical_Industry	Graphite	2	Phosphorus	2	Salt	3														
+1	Forest_Industry	Forest	1																		
+1	Crops_Farming	Cereal_Crops	2	Industrial_Crops	3	Oil_Crops	2	!Soil	1												
+1	Animal_Farming	Fish	2	Seafood	3	Cows	3	Pigs	2	Sheep	2	Chickens	3	Goats	2						
+2	Metalwork	Black_Metallurgy	2	Color_Metallurgy	2																
+2	Heavy_Machinery	Black_Metallurgy	4	Color_Metallurgy	3																
+2	Electronic_Machinery	Black_Metallurgy	1	Color_Metallurgy	3																
+2	Railway_Machinery	Black_Metallurgy	2	Color_Metallurgy	2																
+2	Sea_Machinery	Black_Metallurgy	3	Color_Metallurgy	3	Chemical_Industry	1	!Water	4												
+2	Air_Machinery	Black_Metallurgy	2	Color_Metallurgy	3	Chemical_Industry	2														
+2	Farming_Machinery	Black_Metallurgy	2	Color_Metallurgy	2	Chemical_Industry	1														
+2	Car_Machinery	Black_Metallurgy	1	Color_Metallurgy	3	Chemical_Industry	1														
+2	Instrument_Machinery	Black_Metallurgy	3	Color_Metallurgy	2																
+2	Light_Industry	Crops_Farming	3	Chemical_Industry	2																
+2	Food_Industry_Crops	Crops_Farming	4	Chemical_Industry	2																
+2	Food_Industry_Meat	Animal_Farming	4	Chemical_Industry	2																
+3	Thermal_Energy	Metalwork	4	Heavy_Machinery	3	Electronic_Machinery	2	Coal_Industry	3												
+3	Water_Energy	Metalwork	4	Heavy_Machinery	2	Electronic_Machinery	2	!Water	4												
+3	Atomic_Energy	Metalwork	4	Heavy_Machinery	4	Electronic_Machinery	3	Uranium_Industry	2												
+3	Military_Infantry	Metalwork	2	Sulfur	3	Saltpeter	3														
+3	Military_Ground	Metalwork	2	Car_Machinery	2	Electronic_Machinery	2														
+3	Military_Sea	Metalwork	3	Sea_Machinery	3	Electronic_Machinery	2														
+3	Military_Air	Metalwork	3	Air_Machinery	3	Electronic_Machinery	3														

@@ -1,0 +1,48 @@
+Shooter	Pistol	1	Assault_Rifle	1		
+Machine_Gun_Operator	Pistol	1	Machine_Gun	1		
+Grenade_Launcher_Operator	Pistol	1	Grenade_Launcher	1		
+Scout	Pistol	1	Assault_Rifle	1		
+Sniper	Pistol	1	Sniper_Rifle	1		
+Car_Driver	Pistol	1	Assault_Rifle	1		
+Tank_Driver	Pistol	1	Assault_Rifle	1		
+Armed_Vehicle_Driver	Pistol	1	Assault_Rifle	1		
+Artillery_Driver	Pistol	1	Assault_Rifle	1		
+Mechanic	Assault_Rifle	1				
+Medic	Assault_Rifle	1				
+Sapper	Assault_Rifle	1				
+Signal_Com	Assault_Rifle	1				
+Aimer	Assault_Rifle	1				
+Artilleryman	Pistol	1	Assault_Rifle	1		
+Paratrooper	Pistol	1	Assault_Rifle	1		
+Drone_Operator	Assault_Rifle	1	Observing_Drone	1		
+Pilot						
+Navy						
+Chemical_Corp	Pistol	1	Assault_Rifle	1		
+Anti_Aircraft_Operator	Assault_Rifle	1				
+Special_Forces	Assault_Rifle	1				
+Car	Car_Driver	1	Shooter	3		
+Armed_Vehicle	Armed_Vehicle_Driver	1	Shooter	4	Machine_Gun_Operator	1
+Tank	Tank_Driver	1	Shooter	1	Mechanic	1
+Self_Propelling_Artillery	Artillery_Driver	1	Artilleryman	3		
+Multiple_Rocket_Launcher	Armed_Vehicle_Driver	1	Shooter	1	Mechanic	1
+Electromagnetic_Warfare_System	Car_Driver	1	Shooter	2	Mechanic	1
+Artillery_System	Artilleryman	6	Aimer	1	Drone_Operator	1
+Anti_Aircraft_System	Car_Driver	1	Aimer	1	Anti_Aircraft_Operator	1
+Radar	Signal_Com	3				
+Observing_Drone						
+Ship	Navy	20				
+Submarine	Navy	25				
+Boat	Navy	15				
+Helicopter	Pilot	2				
+Fighter_Airplane	Pilot	2				
+Cargo_Airplane	Pilot	3				
+Bomber_Airplane	Pilot	2				
+Pistol						
+Assault_Rifle						
+Sniper_Rifle						
+Grenade_Launcher						
+Machine_Gun						
+Mortar						
+Bullet						
+Cartridge						
+Hand_Grenade						

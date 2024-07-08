@@ -1,0 +1,12 @@
+Lower Limit	Biome	Temperatures	
+7000	Glacier		
+6000	Treeless_Alpine, Prostrate_Shrub	VeryHot, Hot	
+5000	Alpine_Tundra, Shrub	VeryHot, Hot, VeryWarm	
+4000	Krummholz, Alpine_Tundra, Steppe	VeryHot, Hot, VeryWarm, Warm	
+3000	Krummholz, Alpine_Tundra, Steppe	VeryHot, Hot, VeryWarm, Warm, Neutral	
+2000	Mount_Conifer	VeryHot, Hot, VeryWarm, Warm, Neutral, Cold	
+0	Default		
+-1000	Shallow_Ocean		
+-3000	MidDepth_Ocean		
+-6000	Deep_Ocean		
+MinInf	VeryDeep_Ocean		

@@ -1,0 +1,27 @@
+Name	Color Code	Resources				
+Glacier	#ffffff					
+Treeless_Alpine	#709f93					
+Prostrate_Shrub	#c2a04e	Goats				
+Shrub	#c28a00	Goats				
+Alpine_Tundra	#4ec79e	Forest				
+Krummholz	#a4ba1a	Forest				
+Steppe	#c9e800	Soil	Oil_Crops	Industrial_Crops	Cereal_Crops	
+Mount_Conifer	#2a804d	Forest	Sheep	Goats		
+Shallow_Ocean	#00f0ee	Water	Fish	Seafood		
+MidDepth_Ocean	#008cf0	Water	Fish	Seafood		
+Deep_Ocean	#0028f0	Water	Fish			
+VeryDeep_Ocean	#001687	Water				
+Rainforest	#11f500	Forest	Cows	Sheep		
+Jungle	#0eca00	Soil	Oil_Crops	Cereal_Crops		
+Woodland	#649726	Soil	Industrial_Crops	Cereal_Crops		
+Savanna	#f49c00	Soil	Industrial_Crops	Cereal_Crops		
+Semi_Desert	#e6bf00	Sheep				
+Desert	#e5e200					
+Forest_Steppe	#8ee800	Soil	Cereal_Crops	Industrial_Crops		
+Mixed_Forest	#06cf52	Forest	Cows	Chickens	Sheep	Pigs
+Broad_Leaf_Forest	#009705	Forest	Cows	Chickens	Sheep	Pigs
+Conifer	#06814c	Forest	Goats	Sheep	Pigs	
+Taiga	#0bab81	Forest	Goats	Sheep		
+Forest_Tundra	#0ae3ab	Forest	Goats	Sheep		
+Tundra	#50cacd	Goats				
+Cold_Desert	#96fcff					

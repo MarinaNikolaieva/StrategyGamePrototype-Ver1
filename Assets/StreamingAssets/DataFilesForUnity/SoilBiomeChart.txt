@@ -1,0 +1,20 @@
+Name	Color Code	Price					
+Arctic	#c9c9c9	8	Glacier	Cold_Desert			
+Slimy_Tundra	#72a16d	6	Tundra	Forest_Tundra	Alpine_Tundra	Shrub	Prostrate_Shrub
+Slimy_Podzolic	#a26e6e	5	Treeless_Alpine	Taiga	Mount_Conifer	Krummholz	
+Podzolic	#3c6137	5	Taiga	Mount_Conifer	Conifer		
+Sod_Podzolic	#6a7b29	5	Conifer	Mixed_Forest			
+Forest_Gray	#26491c	4	Broad_Leaf_Forest	Forest_Steppe	Woodland		
+Forest_Fulvous	#4a351c	4	Broad_Leaf_Forest	Forest_Steppe	Woodland		
+Nutbrown	#7a2b03	4	Steppe	Woodland			
+Black_Soil	#280e00	5	Steppe				
+Fulvous	#6d3400	4	Semi_Desert	Desert			
+Gray_Soil	#905f34	3	Semi_Desert	Desert	Steppe		
+Gray_Fulvous	#75391c	3	Semi_Desert	Desert			
+Saline	#61493e	7	Semi_Desert	Desert			
+Brown	#874407	4	Jungle				
+Red_Soil	#be0000	5	Jungle				
+Red_Fulvous	#8f2424	5	Savanna	Woodland			
+Red_Yellowish	#d58f00	5	Jungle	Rainforest			
+Brown_Arid	#5c3800	4	Semi_Desert				
+Ocean	#1e213d	1	Shallow_Ocean	MidDepth_Ocean	Deep_Ocean	VeryDeep_Ocean	

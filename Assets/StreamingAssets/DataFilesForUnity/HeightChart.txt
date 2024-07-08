@@ -1,0 +1,13 @@
+Lower Limit	Name	Color Code	Temperature Coef	Moisture Coef
+5000	BigHeight	#ff4500	0.2	0.15
+2000	MidBigHeight	#ffa500	0.17	0
+1000	MidHeight	#ffd700	0.13	0
+500	MidLowHeight	#ffff00	0.1	0
+200	LowHeight	#adff2f	0.05	0
+0	Zero	#ffffff	0	0
+-200	LowDepth	#00ffff	0.05	-1
+-1000	MidLowDepth	#1e90ff	0.15	-1
+-2000	MidDepth	#0000ff	0.25	-1
+-4000	MidBigDepth	#00008b	0.35	-1
+-6000	BigDepth	#4b0082	0.5	-1
+MinInf	Abyss	#000000	0.7	-1

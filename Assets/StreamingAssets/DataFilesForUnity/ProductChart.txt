@@ -1,0 +1,222 @@
+ID	Name	Price	Amount	Time First	Time All	Resource	Industry										
+0	Mussels	5	1	0,0,0,10	0,0,0,5	Seafood	Animal_Farming										
+1	Octopuses	5	1	0,0,0,10	0,0,0,5	Seafood	Animal_Farming										
+2	Algae	5	1	0,0,0,10	0,0,0,5	Seafood	Animal_Farming										
+3	Wood	1	1	0,0,0,10	0,0,0,5	Forest	Forest_Industry										
+4	Paper	2	1	0,0,0,10	0,0,0,5	Forest	Forest_Industry										
+5	Furniture	4	1	0,0,0,10	0,0,0,5	Forest	Forest_Industry										
+6	Furniture	4	1	0,0,0,10	0,0,0,5	Aluminium	Color_Metallurgy										
+7	Milk	1	1	0,0,0,10	0,0,0,5	Cows	Animal_Farming										
+8	Milk	1	1	0,0,0,10	0,0,0,5	Goats	Animal_Farming										
+9	Meat	1	1	0,0,0,10	0,0,0,5	Cows	Animal_Farming										
+10	Meat	1	1	0,0,0,10	0,0,0,5	Goats	Animal_Farming										
+11	Meat	1	1	0,0,0,10	0,0,0,5	Pigs	Animal_Farming										
+12	Meat	1	1	0,0,0,10	0,0,0,5	Chickens	Animal_Farming										
+13	Meat	1	1	0,0,0,10	0,0,0,5	Sheep	Animal_Farming										
+14	Leather	1	1	0,0,0,10	0,0,0,5	Cows	Animal_Farming										
+15	Leather	1	1	0,0,0,10	0,0,0,5	Goats	Animal_Farming										
+16	Wool	1	1	0,0,0,10	0,0,0,5	Sheep	Animal_Farming										
+17	Eggs	1	1	0,0,0,10	0,0,0,5	Chickens	Animal_Farming										
+18	Feathers	1	1	0,0,0,10	0,0,0,5	Chickens	Animal_Farming										
+19	Sunflower	3	1	0,0,0,10	0,0,0,5	Oil_Crops	Crops_Farming										
+20	Olive	3	1	0,0,0,10	0,0,0,5	Oil_Crops	Crops_Farming										
+21	Wheat	3	1	0,0,0,10	0,0,0,5	Cereal_Crops	Crops_Farming										
+22	Rice	3	1	0,0,0,10	0,0,0,5	Cereal_Crops	Crops_Farming										
+23	Corn	3	1	0,0,0,10	0,0,0,5	Cereal_Crops	Crops_Farming										
+24	Beans	3	1	0,0,0,10	0,0,0,5	Cereal_Crops	Crops_Farming										
+25	Cotton	3	1	0,0,0,10	0,0,0,5	Industrial_Crops	Crops_Farming										
+26	Flax	3	1	0,0,0,10	0,0,0,5	Industrial_Crops	Crops_Farming										
+27	Potatoes	3	1	0,0,0,10	0,0,0,5	Industrial_Crops	Crops_Farming										
+28	Beets	3	1	0,0,0,10	0,0,0,5	Industrial_Crops	Crops_Farming										
+29	Cane	3	1	0,0,0,10	0,0,0,5	Industrial_Crops	Crops_Farming										
+30	Sea_Fish	2	1	0,0,0,10	0,0,0,5	Fish	Animal_Farming										
+31	Fresh-Water_Fish	2	1	0,0,0,10	0,0,0,5	Fish	Animal_Farming										
+32	Coke	2	1	0,0,0,10	0,0,0,5	Black_Coal	Coal_Industry										
+33	Steel	5	1	0,0,0,10	0,0,0,5	Iron	Black_Metallurgy										
+34	Pipe	5	1	0,0,0,10	0,0,0,5	Iron	Black_Metallurgy										
+35	Pipe	5	1	0,0,0,10	0,0,0,5	Nickel	Color_Metallurgy										
+36	Pipe	5	1	0,0,0,10	0,0,0,5	Copper	Color_Metallurgy										
+37	Pipe	5	1	0,0,0,10	0,0,0,5	Tin	Color_Metallurgy										
+38	Rolled_Metal	5	1	0,0,0,10	0,0,0,5	Iron	Black_Metallurgy										
+39	Rolled_Metal	5	1	0,0,0,10	0,0,0,5	Nickel	Color_Metallurgy										
+40	Frame	5	1	0,0,0,10	0,0,0,5	Iron	Black_Metallurgy										
+41	Instrument_Part	5	1	0,0,0,10	0,0,0,5	Iron	Black_Metallurgy										
+42	Instrument_Part	5	1	0,0,0,10	0,0,0,5	Copper	Color_Metallurgy										
+43	Car_Part	5	1	0,0,0,10	0,0,0,5	Iron	Black_Metallurgy										
+44	Car_Part	5	1	0,0,0,10	0,0,0,5	Titan	Color_Metallurgy										
+45	Car_Part	5	1	0,0,0,10	0,0,0,5	Wolfram	Color_Metallurgy										
+46	Car_Part	5	1	0,0,0,10	0,0,0,5	Nickel	Color_Metallurgy										
+47	Car_Part	5	1	0,0,0,10	0,0,0,5	Graphite	Chemical_Industry										
+48	Furnace	5	1	0,0,0,10	0,0,0,5	Iron	Black_Metallurgy										
+49	Rail	5	1	0,0,0,10	0,0,0,5	Chromium	Black_Metallurgy										
+50	Aircraft_Part	6	1	0,0,0,10	0,0,0,5	Chromium	Black_Metallurgy										
+51	Aircraft_Part	6	1	0,0,0,10	0,0,0,5	Titan	Color_Metallurgy										
+52	Aircraft_Part	6	1	0,0,0,10	0,0,0,5	Wolfram	Color_Metallurgy										
+53	Electronics	6	1	0,0,0,10	0,0,0,5	Manganese	Black_Metallurgy										
+54	Electronics	6	1	0,0,0,10	0,0,0,5	Copper	Color_Metallurgy										
+55	Electronics	6	1	0,0,0,10	0,0,0,5	Silver	Color_Metallurgy										
+56	Electronics	6	1	0,0,0,10	0,0,0,5	Mercury	Color_Metallurgy										
+57	Electronics	6	1	0,0,0,10	0,0,0,5	Lead	Color_Metallurgy										
+58	Electronics	6	1	0,0,0,10	0,0,0,5	Gold	Color_Metallurgy										
+59	Armor	3	1	0,0,0,10	0,0,0,5	Titan	Color_Metallurgy										
+60	Armor	3	1	0,0,0,10	0,0,0,5	Wolfram	Color_Metallurgy										
+61	Armor	3	1	0,0,0,10	0,0,0,5	Uranium	Uranium_Industry										
+62	Reactor_Part	7	1	0,0,0,10	0,0,0,5	Titan	Color_Metallurgy										
+63	Reactor_Part	7	1	0,0,0,10	0,0,0,5	Graphite	Chemical_Industry										
+64	Seacraft_Part	6	1	0,0,0,10	0,0,0,5	Mercury	Color_Metallurgy										
+65	Seacraft_Part	6	1	0,0,0,10	0,0,0,5	Titan	Color_Metallurgy										
+66	Light	4	1	0,0,0,10	0,0,0,5	Wolfram	Color_Metallurgy										
+67	Wire	3	1	0,0,0,10	0,0,0,5	Nickel	Color_Metallurgy										
+68	Wire	3	1	0,0,0,10	0,0,0,5	Copper	Color_Metallurgy										
+69	Medical_Equipment	7	1	0,0,0,10	0,0,0,5	Nickel	Color_Metallurgy										
+70	Medical_Equipment	7	1	0,0,0,10	0,0,0,5	Silver	Color_Metallurgy										
+71	Medical_Equipment	7	1	0,0,0,10	0,0,0,5	Mercury	Color_Metallurgy										
+72	Medical_Equipment	7	1	0,0,0,10	0,0,0,5	Sulfur	Chemical_Industry										
+73	Decorations	4	1	0,0,0,10	0,0,0,5	Aluminium	Color_Metallurgy										
+74	Decorations	4	1	0,0,0,10	0,0,0,5	Tin	Color_Metallurgy										
+75	Mirror	4	1	0,0,0,10	0,0,0,5	Aluminium	Color_Metallurgy										
+76	Jewelry	7	1	0,0,0,10	0,0,0,5	Aluminium	Color_Metallurgy										
+77	Jewelry	7	1	0,0,0,10	0,0,0,5	Silver	Color_Metallurgy										
+78	Jewelry	7	1	0,0,0,10	0,0,0,5	Gold	Color_Metallurgy										
+79	Dishes	3	1	0,0,0,10	0,0,0,5	Aluminium	Color_Metallurgy										
+80	Dishes	3	1	0,0,0,10	0,0,0,5	Silver	Color_Metallurgy										
+81	Dishes	3	1	0,0,0,10	0,0,0,5	Tin	Color_Metallurgy										
+82	Bycicle	4	1	0,0,0,10	0,0,0,5	Aluminium	Color_Metallurgy										
+83	Equipment	4	1	0,0,0,10	0,0,0,5	Aluminium	Color_Metallurgy										
+84	Glasses	2	1	0,0,0,10	0,0,0,5	Aluminium	Color_Metallurgy										
+85	Money	2	1	0,0,0,10	0,0,0,5	Copper	Color_Metallurgy										
+86	Money	2	1	0,0,0,10	0,0,0,5	Silver	Color_Metallurgy										
+87	Money	2	1	0,0,0,10	0,0,0,5	Gold	Color_Metallurgy										
+88	Batteries	4	1	0,0,0,10	0,0,0,5	Silver	Color_Metallurgy										
+89	Batteries	4	1	0,0,0,10	0,0,0,5	Lead	Color_Metallurgy										
+90	Pyrotech	4	1	0,0,0,10	0,0,0,5	Mercury	Color_Metallurgy										
+91	Paint	3	1	0,0,0,10	0,0,0,5	Mercury	Color_Metallurgy										
+92	Paint	3	1	0,0,0,10	0,0,0,5	Salt	Chemical_Industry										
+93	Bullet	5	1	0,0,0,10	0,0,0,5	Lead	Color_Metallurgy										
+94	Reactor_Core	7	1	0,0,0,10	0,0,0,5	Uranium	Uranium_Industry										
+95	Nuclear_Weapon	8	1	0,0,0,10	0,0,0,5	Uranium	Uranium_Industry										
+96	Building_Material	5	1	0,0,0,10	0,0,0,5	Graphite	Chemical_Industry										
+97	Building_Material	5	1	0,0,0,10	0,0,0,5	Sulfur	Chemical_Industry										
+98	Stationery	6	1	0,0,0,10	0,0,0,5	Graphite	Chemical_Industry										
+99	Explosives	5	1	0,0,0,10	0,0,0,5	Phosphorus	Chemical_Industry										
+100	Explosives	5	1	0,0,0,10	0,0,0,5	Saltpeter	Chemical_Industry										
+101	Kerosene	4	1	0,0,0,10	0,0,0,5	Oil	Oil_Industry										
+102	Mazut	4	1	0,0,0,10	0,0,0,5	Oil	Oil_Industry										
+103	Fuel	1	1	0,0,0,10	0,0,0,5	Black_Coal	Coal_Industry										
+104	Fuel	1	1	0,0,0,10	0,0,0,5	Brown_Coal	Coal_Industry										
+105	Fuel	5	1	0,0,0,10	0,0,0,5	Oil	Oil_Industry										
+106	Fuel	2	1	0,0,0,10	0,0,0,5	Gas	Gas_Industry										
+107	Fuel	6	1	0,0,0,10	0,0,0,5	Phosphorus	Chemical_Industry										
+108	Fertilizer	3	1	0,0,0,10	0,0,0,5	Phosphorus	Chemical_Industry										
+109	Fertilizer	3	1	0,0,0,10	0,0,0,5	Saltpeter	Chemical_Industry										
+110	Pesticide	3	1	0,0,0,10	0,0,0,5	Sulfur	Chemical_Industry										
+111	Preservative	3	1	0,0,0,10	0,0,0,5	Saltpeter	Chemical_Industry										
+112	Table_Salt	2	1	0,0,0,10	0,0,0,5	Salt	Chemical_Industry										
+113	Plastic	3	1	0,0,0,10	0,0,0,5	Gas	Gas_Industry										
+114	Plastic	3	1	0,0,0,10	0,0,0,5	Salt	Chemical_Industry										
+115	Soap	3	1	0,0,0,10	0,0,0,5	Salt	Chemical_Industry										
+116	Household_Chemical	3	1	0,0,0,10	0,0,0,5	Salt	Chemical_Industry										
+117	Building_Construction	5	1	0,0,0,10	0,0,0,5		Metalwork										
+118	Fastener	4	1	0,0,0,10	0,0,0,5		Metalwork										
+119	Accessories	4	1	0,0,0,10	0,0,0,5		Metalwork										
+120	Complex_Machine	6	1	0,0,0,10	0,0,0,5		Heavy_Machinery										
+121	Complex_Equipment	6	1	0,0,0,10	0,0,0,5		Heavy_Machinery										
+122	Engine	6	1	0,0,0,10	0,0,0,5		Heavy_Machinery										
+123	Excavator	6	1	0,0,0,10	0,0,0,5		Heavy_Machinery										
+124	Machine	6	1	0,0,0,10	0,0,0,5		Heavy_Machinery										
+125	Press	7	1	0,0,0,10	0,0,0,5		Heavy_Machinery										
+126	Turbine	6	1	0,0,0,10	0,0,0,5		Heavy_Machinery										
+127	Generator	6	1	0,0,0,10	0,0,0,5		Heavy_Machinery										
+128	Semiconductor	5	1	0,0,0,10	0,0,0,5		Electronic_Machinery										
+129	Resistor	5	1	0,0,0,10	0,0,0,5		Electronic_Machinery										
+130	Capacitor	5	1	0,0,0,10	0,0,0,5		Electronic_Machinery										
+131	Electronic_Tool	5	1	0,0,0,10	0,0,0,5		Electronic_Machinery										
+132	Radar	6	1	0,0,0,10	0,0,0,5		Electronic_Machinery										
+133	Locomotive	6	1	0,0,0,10	0,0,0,5		Railway_Machinery										
+134	Carriage	6	1	0,0,0,10	0,0,0,5		Railway_Machinery										
+135	Wheel	4	1	0,0,0,10	0,0,0,5		Railway_Machinery										
+136	Boat	6	1	0,0,0,10	0,0,0,5		Sea_Machinery										
+137	Ship	6	1	0,0,0,10	0,0,0,5		Sea_Machinery										
+138	Tug	6	1	0,0,0,10	0,0,0,5		Sea_Machinery										
+139	Raft	6	1	0,0,0,10	0,0,0,5		Sea_Machinery										
+140	Surf_Board	3	1	0,0,0,10	0,0,0,5		Sea_Machinery										
+141	Passenger_Airplane	6	1	0,0,0,10	0,0,0,5		Air_Machinery										
+142	Cargo_Airplane	6	1	0,0,0,10	0,0,0,5		Air_Machinery										
+143	Fighter_Airplane	7	1	0,0,0,10	0,0,0,5		Air_Machinery										
+144	Bomber_Airplane	7	1	0,0,0,10	0,0,0,5		Air_Machinery										
+145	Helicopter	6	1	0,0,0,10	0,0,0,5		Air_Machinery										
+146	Tractor	5	1	0,0,0,10	0,0,0,5		Farming_Machinery										
+147	Grain_Elevator	4	1	0,0,0,10	0,0,0,5		Farming_Machinery										
+148	Shed	4	1	0,0,0,10	0,0,0,5		Farming_Machinery										
+149	Harvester	5	1	0,0,0,10	0,0,0,5		Farming_Machinery										
+150	Car	4	1	0,0,0,10	0,0,0,5		Car_Machinery										
+151	Bike	3	1	0,0,0,10	0,0,0,5		Car_Machinery										
+152	Tire	3	1	0,0,0,10	0,0,0,5		Car_Machinery										
+153	Truck	5	1	0,0,0,10	0,0,0,5		Car_Machinery										
+154	Bus	5	1	0,0,0,10	0,0,0,5		Car_Machinery										
+155	Radio_Device	5	1	0,0,0,10	0,0,0,5		Instrument_Machinery										
+156	Complex_Electronics	6	1	0,0,0,10	0,0,0,5		Instrument_Machinery										
+157	Optical_Device	5	1	0,0,0,10	0,0,0,5		Instrument_Machinery										
+158	Navigator	4	1	0,0,0,10	0,0,0,5		Instrument_Machinery										
+159	Meter	3	1	0,0,0,10	0,0,0,5		Instrument_Machinery										
+160	Transformer	4	1	0,0,0,10	0,0,0,5		Instrument_Machinery										
+161	Computer	6	1	0,0,0,10	0,0,0,5		Instrument_Machinery										
+162	Camera	5	1	0,0,0,10	0,0,0,5		Instrument_Machinery										
+163	Appliance	3	1	0,0,0,10	0,0,0,5		Instrument_Machinery										
+164	Clothing	2	1	0,0,0,10	0,0,0,5		Light_Industry										
+165	Shoes	2	1	0,0,0,10	0,0,0,5		Light_Industry										
+166	Knitwear	3	1	0,0,0,10	0,0,0,5		Light_Industry										
+167	Textile	3	1	0,0,0,10	0,0,0,5		Light_Industry										
+168	Faux_Leather	4	1	0,0,0,10	0,0,0,5		Light_Industry										
+169	Haberdashery	4	1	0,0,0,10	0,0,0,5		Light_Industry										
+170	Canned_Food	5	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+171	Canned_Food	5	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+172	Sliced_Food	4	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+173	Bread	4	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+174	Juice	2	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+175	Flour	2	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+176	Farina	3	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+177	Syrup	3	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+178	Sugar	2	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+179	Candy	3	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+180	Pasta	4	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+181	Animal_Food	4	1	0,0,0,10	0,0,0,5		Food_Industry_Crops										
+182	Animal_Food	4	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+183	Saucage	4	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+184	Smoked_Meat	5	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+185	Gelatin	3	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+186	Glue	4	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+187	Cheese	4	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+188	Butter	3	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+189	Ice-cream	3	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+190	Sour_Cream	3	1	0,0,0,10	0,0,0,5		Food_Industry_Meat										
+191	Radioactive_Waste	10	1	0,0,0,10	0,0,0,5		Atomic_Energy										
+192	Electricity	5	1	0,0,0,10	0,0,0,5		Thermal_Energy										
+193	Electricity	2	1	0,0,0,10	0,0,0,5		Water_Energy										
+194	Electricity	4	1	0,0,0,10	0,0,0,5		Atomic_Energy										
+195	Pistol	6	1	0,0,0,10	0,0,0,5		Military_Infantry										
+196	Assault_Rifle	6	1	0,0,0,10	0,0,0,5		Military_Infantry										
+197	Sniper_Rifle	6	1	0,0,0,10	0,0,0,5		Military_Infantry										
+198	Machine_Gun	6	1	0,0,0,10	0,0,0,5		Military_Infantry										
+199	Grenade_Launcher	6	1	0,0,0,10	0,0,0,5		Military_Infantry										
+200	Mortar	6	1	0,0,0,10	0,0,0,5		Military_Infantry										
+201	Hand_Grenade	6	1	0,0,0,10	0,0,0,5		Military_Infantry										
+202	Cartridge	6	1	0,0,0,10	0,0,0,5		Military_Infantry										
+203	Body_Armor	5	1	0,0,0,10	0,0,0,5		Military_Infantry										
+204	Observing_Drone	4	1	0,0,0,10	0,0,0,5		Military_Infantry										
+205	Tank	7	1	0,0,0,10	0,0,0,5		Military_Ground										
+206	Artillery_System	7	1	0,0,0,10	0,0,0,5		Military_Ground										
+207	Mine	6	1	0,0,0,10	0,0,0,5		Military_Ground										
+208	Multiple_Rocket_Launcher	7	1	0,0,0,10	0,0,0,5		Military_Ground										
+209	Armed_Vehicle	7	1	0,0,0,10	0,0,0,5		Military_Ground										
+210	Anti_Aircraft_System	7	1	0,0,0,10	0,0,0,5		Military_Ground										
+211	Self_Propelling_Artillery	7	1	0,0,0,10	0,0,0,5		Military_Ground										
+212	Electromagnetic_Warfare_System	7	1	0,0,0,10	0,0,0,5		Military_Ground										
+213	Submarine	7	1	0,0,0,10	0,0,0,5		Military_Sea										
+214	Torpedo	8	1	0,0,0,10	0,0,0,5		Military_Sea										
+215	Underwater_Drone	8	1	0,0,0,10	0,0,0,5		Military_Sea										
+216	Water_Drone	6	1	0,0,0,10	0,0,0,5		Military_Sea										
+217	Ship_Weapon	7	1	0,0,0,10	0,0,0,5		Military_Sea										
+218	Airplane_Weapon	7	1	0,0,0,10	0,0,0,5		Military_Air										
+219	Cruise_Missile	7	1	0,0,0,10	0,0,0,5		Military_Air										
+220	Ballistic_Missile	7	1	0,0,0,10	0,0,0,5		Military_Air										

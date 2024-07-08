@@ -1,0 +1,11 @@
+Lower Limit	Name	Color Code
+0.85	Wettest	#9c00d4
+0.75	VeryWet	#5a04c9
+0.65	Wet	#0442c9
+0.55	NeutralWet	#00dfda
+0.45	Neutral	#00ce51
+0.35	NeutralDry	#7bcf00
+0.25	Dry	#dde000
+0.15	VeryDry	#eb9d00
+-1	Driest	#eb4800
+MinInf	None	#888888
